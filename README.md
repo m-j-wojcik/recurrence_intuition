@@ -14,13 +14,13 @@ These are not bugs. This mixing creates high-dimensional population representati
 
 Starting from the classic XOR problem, the tutorial guides you through why some computations are hard for linear readouts, how mixed selectivity solves this, and how these ideas play out in a continuous-time recurrent neural network — even before training.
 
-| Section | Topic | Key idea |
-|:--------|:------|:---------|
-| **1** | XOR & mixed selectivity | Pure selectivity neurons can't solve XOR; one mixed-selectivity neuron breaks the linear separability barrier |
-| **2** | Temporal decision task | The same XOR rule embedded in a richer setting: sequential stimuli, a distractor dimension, and a delayed decision |
-| **3** | Building a CTRNN | The continuous-time RNN equation, discretisation, and an exercise to implement the recurrence step |
-| **4** | Probing the untrained network | Linear SVM decoding of Colour, Shape, Width, and XOR from the hidden states across time |
-| **5** | Why does the untrained network already represent XOR? | Structural vs. functional definitions of selectivity — masking experiments that reveal why connectivity ≠ selectivity in recurrent networks |
+| Section | Topic | Key idea                                                                                                                                          |
+|:--------|:------|:--------------------------------------------------------------------------------------------------------------------------------------------------|
+| **1** | XOR & mixed selectivity | Pure selectivity neurons can't solve XOR; one mixed-selectivity neuron breaks the linear separability barrier                                     |
+| **2** | Temporal decision task | The same XOR rule embedded in a richer setting: sequential stimuli, a distractor dimension, and a delayed decision                                |
+| **3** | Building a CTRNN | The continuous-time RNN equation, discretisation, and an exercise to implement the recurrence step                                                |
+| **4** | Probing the untrained network | Linear SVM decoding of Colour, Shape, Width, and XOR from the hidden states across time                                                           |
+| **5** | Why does the untrained network already represent XOR? | Structural vs. functional definitions of selectivity — masking experiments that reveal why input connectivity ≠ selectivity in recurrent networks |
 
 ## Prerequisites
 
