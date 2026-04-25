@@ -32,7 +32,7 @@ Starting from the classic XOR problem, the tutorial guides you through why some 
 
 **Option 1 — Google Colab (recommended)**
 
-Click the badge above. The notebook installs its own dependencies and runs standalone — no local setup needed.
+Click the badge above. The notebook installs its own dependencies and runs standalone, no local setup needed.
 
 **Option 2 — Local**
 
@@ -59,6 +59,3 @@ recurrence_intuition/
 
 - Elhage, N., Hume, T., Olsson, C., Schiefer, N., Henighan, T., Kravec, S., Hatfield-Dodds, Z., Lasenby, R., Drain, D., Chen, C., Grosse, R., McCandlish, S., Kaplan, J., Amodei, D., Wattenberg, M., & Olah, C. (2022). Toy Models of Superposition. *Transformer Circuits Thread*. [link](https://transformer-circuits.pub/2022/toy_model/index.html) 
 
-## License
-
-MIT
